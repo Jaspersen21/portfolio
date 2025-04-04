@@ -59,7 +59,10 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## ✨ Demo
 
-Check out the live demo at: ludiguj-portfolio.netlify.app
+Check out the live demo at: 
+🔗 ludiguj-portfolio.netlify.app
+
+🔗 jasperportfolio-ten.vercel.app
 
 
 
